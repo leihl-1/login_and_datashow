@@ -1,0 +1,3 @@
+# login_and_datashow
+test中运行main_login简单的登录界面
+pyqt5-learn-main中包含数据展示和性能监视
